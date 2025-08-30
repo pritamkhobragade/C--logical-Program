@@ -1,0 +1,8 @@
+E:\coder\logical program\Cube_C#\Cube_C#\bin\Debug\Cube_C#.exe.config
+E:\coder\logical program\Cube_C#\Cube_C#\bin\Debug\Cube_C#.exe
+E:\coder\logical program\Cube_C#\Cube_C#\bin\Debug\Cube_C#.pdb
+E:\coder\logical program\Cube_C#\Cube_C#\obj\Debug\Cube_C#.csproj.AssemblyReference.cache
+E:\coder\logical program\Cube_C#\Cube_C#\obj\Debug\Cube_C#.csproj.CoreCompileInputs.cache
+E:\coder\logical program\Cube_C#\Cube_C#\obj\Debug\Cube_C#.exe
+E:\coder\logical program\Cube_C#\Cube_C#\obj\Debug\Cube_C#.pdb
+E:\coder\logical program\Cube_C#\Cube_C#\obj\Debug\Cube_C#.exe.config

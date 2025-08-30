@@ -1,0 +1,8 @@
+E:\coder\C#\Rectangle_c#\Rectangle_c#\bin\Debug\Rectangle_c#.exe.config
+E:\coder\C#\Rectangle_c#\Rectangle_c#\bin\Debug\Rectangle_c#.exe
+E:\coder\C#\Rectangle_c#\Rectangle_c#\bin\Debug\Rectangle_c#.pdb
+E:\coder\C#\Rectangle_c#\Rectangle_c#\obj\Debug\Rectangle_c#.csproj.AssemblyReference.cache
+E:\coder\C#\Rectangle_c#\Rectangle_c#\obj\Debug\Rectangle_c#.csproj.CoreCompileInputs.cache
+E:\coder\C#\Rectangle_c#\Rectangle_c#\obj\Debug\Rectangle_c#.exe
+E:\coder\C#\Rectangle_c#\Rectangle_c#\obj\Debug\Rectangle_c#.pdb
+E:\coder\C#\Rectangle_c#\Rectangle_c#\obj\Debug\Rectangle_c#.exe.config

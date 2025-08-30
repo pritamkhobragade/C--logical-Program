@@ -1,0 +1,8 @@
+E:\coder\logical program\Circle_C#\Circle_C#\bin\Debug\Circle_C#.exe.config
+E:\coder\logical program\Circle_C#\Circle_C#\bin\Debug\Circle_C#.exe
+E:\coder\logical program\Circle_C#\Circle_C#\bin\Debug\Circle_C#.pdb
+E:\coder\logical program\Circle_C#\Circle_C#\obj\Debug\Circle_C#.csproj.AssemblyReference.cache
+E:\coder\logical program\Circle_C#\Circle_C#\obj\Debug\Circle_C#.csproj.CoreCompileInputs.cache
+E:\coder\logical program\Circle_C#\Circle_C#\obj\Debug\Circle_C#.exe
+E:\coder\logical program\Circle_C#\Circle_C#\obj\Debug\Circle_C#.pdb
+E:\coder\logical program\Circle_C#\Circle_C#\obj\Debug\Circle_C#.exe.config

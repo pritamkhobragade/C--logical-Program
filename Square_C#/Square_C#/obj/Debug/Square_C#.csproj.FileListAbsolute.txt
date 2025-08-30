@@ -1,0 +1,8 @@
+E:\coder\logical program\Square_C#\Square_C#\bin\Debug\Square_C#.exe.config
+E:\coder\logical program\Square_C#\Square_C#\bin\Debug\Square_C#.exe
+E:\coder\logical program\Square_C#\Square_C#\bin\Debug\Square_C#.pdb
+E:\coder\logical program\Square_C#\Square_C#\obj\Debug\Square_C#.csproj.AssemblyReference.cache
+E:\coder\logical program\Square_C#\Square_C#\obj\Debug\Square_C#.csproj.CoreCompileInputs.cache
+E:\coder\logical program\Square_C#\Square_C#\obj\Debug\Square_C#.exe
+E:\coder\logical program\Square_C#\Square_C#\obj\Debug\Square_C#.pdb
+E:\coder\logical program\Square_C#\Square_C#\obj\Debug\Square_C#.exe.config

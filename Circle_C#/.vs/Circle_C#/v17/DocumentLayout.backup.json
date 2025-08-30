@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\coder\\logical program\\Circle_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A28EC4-956C-4CEA-85A1-32E4DE505A67}|Circle_C#\\Circle_C#.csproj|e:\\coder\\logical program\\circle_c#\\circle_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A28EC4-956C-4CEA-85A1-32E4DE505A67}|Circle_C#\\Circle_C#.csproj|solutionrelative:circle_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\coder\\logical program\\Circle_C#\\Circle_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Circle_C#\\Program.cs",
+              "ToolTip": "E:\\coder\\logical program\\Circle_C#\\Circle_C#\\Program.cs",
+              "RelativeToolTip": "Circle_C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T10:40:54.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

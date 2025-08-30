@@ -1,0 +1,7 @@
+E:\coder\logical program\loginAuthetication\loginAuthetication\bin\Debug\loginAuthetication.exe.config
+E:\coder\logical program\loginAuthetication\loginAuthetication\bin\Debug\loginAuthetication.exe
+E:\coder\logical program\loginAuthetication\loginAuthetication\bin\Debug\loginAuthetication.pdb
+E:\coder\logical program\loginAuthetication\loginAuthetication\obj\Debug\loginAuthetication.csproj.AssemblyReference.cache
+E:\coder\logical program\loginAuthetication\loginAuthetication\obj\Debug\loginAuthetication.csproj.CoreCompileInputs.cache
+E:\coder\logical program\loginAuthetication\loginAuthetication\obj\Debug\loginAuthetication.exe
+E:\coder\logical program\loginAuthetication\loginAuthetication\obj\Debug\loginAuthetication.pdb

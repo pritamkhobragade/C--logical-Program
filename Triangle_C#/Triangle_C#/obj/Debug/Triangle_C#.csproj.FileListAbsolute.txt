@@ -1,0 +1,8 @@
+E:\coder\logical program\Triangle_C#\Triangle_C#\bin\Debug\Triangle_C#.exe.config
+E:\coder\logical program\Triangle_C#\Triangle_C#\bin\Debug\Triangle_C#.exe
+E:\coder\logical program\Triangle_C#\Triangle_C#\bin\Debug\Triangle_C#.pdb
+E:\coder\logical program\Triangle_C#\Triangle_C#\obj\Debug\Triangle_C#.csproj.AssemblyReference.cache
+E:\coder\logical program\Triangle_C#\Triangle_C#\obj\Debug\Triangle_C#.csproj.CoreCompileInputs.cache
+E:\coder\logical program\Triangle_C#\Triangle_C#\obj\Debug\Triangle_C#.exe
+E:\coder\logical program\Triangle_C#\Triangle_C#\obj\Debug\Triangle_C#.pdb
+E:\coder\logical program\Triangle_C#\Triangle_C#\obj\Debug\Triangle_C#.exe.config
