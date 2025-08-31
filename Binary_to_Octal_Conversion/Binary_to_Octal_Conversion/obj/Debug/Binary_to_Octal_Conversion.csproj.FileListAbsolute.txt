@@ -1,0 +1,7 @@
+E:\coder\logical program\Binary_to_Octal_Conversion\Binary_to_Octal_Conversion\bin\Debug\Binary_to_Octal_Conversion.exe.config
+E:\coder\logical program\Binary_to_Octal_Conversion\Binary_to_Octal_Conversion\bin\Debug\Binary_to_Octal_Conversion.exe
+E:\coder\logical program\Binary_to_Octal_Conversion\Binary_to_Octal_Conversion\bin\Debug\Binary_to_Octal_Conversion.pdb
+E:\coder\logical program\Binary_to_Octal_Conversion\Binary_to_Octal_Conversion\obj\Debug\Binary_to_Octal_Conversion.csproj.AssemblyReference.cache
+E:\coder\logical program\Binary_to_Octal_Conversion\Binary_to_Octal_Conversion\obj\Debug\Binary_to_Octal_Conversion.csproj.CoreCompileInputs.cache
+E:\coder\logical program\Binary_to_Octal_Conversion\Binary_to_Octal_Conversion\obj\Debug\Binary_to_Octal_Conversion.exe
+E:\coder\logical program\Binary_to_Octal_Conversion\Binary_to_Octal_Conversion\obj\Debug\Binary_to_Octal_Conversion.pdb
