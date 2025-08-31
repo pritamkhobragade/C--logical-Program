@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\coder\\logical program\\cuboid_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C85FA114-B9B6-4B17-A20D-F00A1AFB9A44}|cuboid_C#\\cuboid_C#.csproj|e:\\coder\\logical program\\cuboid_c#\\cuboid_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85FA114-B9B6-4B17-A20D-F00A1AFB9A44}|cuboid_C#\\cuboid_C#.csproj|solutionrelative:cuboid_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\coder\\logical program\\cuboid_C#\\cuboid_C#\\Program.cs",
+              "RelativeDocumentMoniker": "cuboid_C#\\Program.cs",
+              "ToolTip": "E:\\coder\\logical program\\cuboid_C#\\cuboid_C#\\Program.cs",
+              "RelativeToolTip": "cuboid_C#\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAwwHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T11:26:53.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

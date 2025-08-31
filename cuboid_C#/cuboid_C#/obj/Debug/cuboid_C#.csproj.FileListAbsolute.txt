@@ -1,0 +1,8 @@
+E:\coder\logical program\cuboid_C#\cuboid_C#\bin\Debug\cuboid_C#.exe.config
+E:\coder\logical program\cuboid_C#\cuboid_C#\bin\Debug\cuboid_C#.exe
+E:\coder\logical program\cuboid_C#\cuboid_C#\bin\Debug\cuboid_C#.pdb
+E:\coder\logical program\cuboid_C#\cuboid_C#\obj\Debug\cuboid_C#.csproj.AssemblyReference.cache
+E:\coder\logical program\cuboid_C#\cuboid_C#\obj\Debug\cuboid_C#.csproj.CoreCompileInputs.cache
+E:\coder\logical program\cuboid_C#\cuboid_C#\obj\Debug\cuboid_C#.exe
+E:\coder\logical program\cuboid_C#\cuboid_C#\obj\Debug\cuboid_C#.pdb
+E:\coder\logical program\cuboid_C#\cuboid_C#\obj\Debug\cuboid_C#.exe.config

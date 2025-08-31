@@ -1,0 +1,8 @@
+E:\coder\logical program\Convert_Fahrenheit_to_Celsius\Convert_Fahrenheit_to_Celsius\bin\Debug\Convert_Fahrenheit_to_Celsius.exe.config
+E:\coder\logical program\Convert_Fahrenheit_to_Celsius\Convert_Fahrenheit_to_Celsius\bin\Debug\Convert_Fahrenheit_to_Celsius.exe
+E:\coder\logical program\Convert_Fahrenheit_to_Celsius\Convert_Fahrenheit_to_Celsius\bin\Debug\Convert_Fahrenheit_to_Celsius.pdb
+E:\coder\logical program\Convert_Fahrenheit_to_Celsius\Convert_Fahrenheit_to_Celsius\obj\Debug\Convert_Fahrenheit_to_Celsius.csproj.AssemblyReference.cache
+E:\coder\logical program\Convert_Fahrenheit_to_Celsius\Convert_Fahrenheit_to_Celsius\obj\Debug\Convert_Fahrenheit_to_Celsius.csproj.CoreCompileInputs.cache
+E:\coder\logical program\Convert_Fahrenheit_to_Celsius\Convert_Fahrenheit_to_Celsius\obj\Debug\Convert_Fahrenheit_to_Celsius.exe
+E:\coder\logical program\Convert_Fahrenheit_to_Celsius\Convert_Fahrenheit_to_Celsius\obj\Debug\Convert_Fahrenheit_to_Celsius.pdb
+E:\coder\logical program\Convert_Fahrenheit_to_Celsius\Convert_Fahrenheit_to_Celsius\obj\Debug\Convert_Fahrenheit_to_Celsius.exe.config

@@ -1,0 +1,8 @@
+E:\coder\logical program\odd_no_c#\odd_no_c#\bin\Debug\odd_no_c#.exe.config
+E:\coder\logical program\odd_no_c#\odd_no_c#\bin\Debug\odd_no_c#.exe
+E:\coder\logical program\odd_no_c#\odd_no_c#\bin\Debug\odd_no_c#.pdb
+E:\coder\logical program\odd_no_c#\odd_no_c#\obj\Debug\odd_no_c#.csproj.AssemblyReference.cache
+E:\coder\logical program\odd_no_c#\odd_no_c#\obj\Debug\odd_no_c#.csproj.CoreCompileInputs.cache
+E:\coder\logical program\odd_no_c#\odd_no_c#\obj\Debug\odd_no_c#.exe
+E:\coder\logical program\odd_no_c#\odd_no_c#\obj\Debug\odd_no_c#.pdb
+E:\coder\logical program\odd_no_c#\odd_no_c#\obj\Debug\odd_no_c#.exe.config

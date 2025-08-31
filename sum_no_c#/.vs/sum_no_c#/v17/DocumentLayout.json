@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\coder\\logical program\\sum_no_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14DD228-3F31-4E9C-9B13-DC7A4BD9DFB2}|sum_no_c#\\sum_no_c#.csproj|e:\\coder\\logical program\\sum_no_c#\\sum_no_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14DD228-3F31-4E9C-9B13-DC7A4BD9DFB2}|sum_no_c#\\sum_no_c#.csproj|solutionrelative:sum_no_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\coder\\logical program\\sum_no_c#\\sum_no_c#\\Program.cs",
+              "RelativeDocumentMoniker": "sum_no_c#\\Program.cs",
+              "ToolTip": "E:\\coder\\logical program\\sum_no_c#\\sum_no_c#\\Program.cs",
+              "RelativeToolTip": "sum_no_c#\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T01:53:10.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

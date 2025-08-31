@@ -1,0 +1,7 @@
+E:\coder\logical program\profit_loss_C#\profit_loss_C#\bin\Debug\profit_loss_C#.exe.config
+E:\coder\logical program\profit_loss_C#\profit_loss_C#\bin\Debug\profit_loss_C#.exe
+E:\coder\logical program\profit_loss_C#\profit_loss_C#\bin\Debug\profit_loss_C#.pdb
+E:\coder\logical program\profit_loss_C#\profit_loss_C#\obj\Debug\profit_loss_C#.csproj.AssemblyReference.cache
+E:\coder\logical program\profit_loss_C#\profit_loss_C#\obj\Debug\profit_loss_C#.csproj.CoreCompileInputs.cache
+E:\coder\logical program\profit_loss_C#\profit_loss_C#\obj\Debug\profit_loss_C#.exe
+E:\coder\logical program\profit_loss_C#\profit_loss_C#\obj\Debug\profit_loss_C#.pdb

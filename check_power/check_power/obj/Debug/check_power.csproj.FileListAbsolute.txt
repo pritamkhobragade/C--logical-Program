@@ -1,0 +1,8 @@
+E:\coder\logical program\check_power\check_power\bin\Debug\check_power.exe.config
+E:\coder\logical program\check_power\check_power\bin\Debug\check_power.exe
+E:\coder\logical program\check_power\check_power\bin\Debug\check_power.pdb
+E:\coder\logical program\check_power\check_power\obj\Debug\check_power.csproj.AssemblyReference.cache
+E:\coder\logical program\check_power\check_power\obj\Debug\check_power.csproj.CoreCompileInputs.cache
+E:\coder\logical program\check_power\check_power\obj\Debug\check_power.exe
+E:\coder\logical program\check_power\check_power\obj\Debug\check_power.pdb
+E:\coder\logical program\check_power\check_power\obj\Debug\check_power.exe.config
